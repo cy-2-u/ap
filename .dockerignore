@@ -1,0 +1,12 @@
+node_modules
+**/node_modules
+.env
+.env.*
+!.env.example
+.localtest*
+.server
+.git
+.github
+*.md
+*.log
+deploy/webtask.service

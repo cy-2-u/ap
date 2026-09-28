@@ -1,0 +1,13 @@
+{
+  "name": "webtask",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "node-cron": "^4.6.0",
+    "patchright": "1.63.0"
+  }
+}
